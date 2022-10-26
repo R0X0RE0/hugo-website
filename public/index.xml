@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rox&#39;s Webpage</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Rox&#39;s Webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>main</title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Fri, 21 Oct 2022 13:25:47 -0400</pubDate>
+      
+      <guid>http://localhost:1313/</guid>
+      <description>I am a cool Hugo Developer! Reasons
+ I am 18 I am from Ohio My favorite bands are  KGATLW Osees Mars Volta Deftones    #include &amp;lt;stdio.h&amp;gt; int main(int argc, char** argv) { printf(&amp;#34;Hello, World!\n&amp;#34;); return 0; } </description>
+      <content>&lt;h1 id=&#34;i-am-a-cool-hugo-developer&#34;&gt;I am a cool Hugo Developer!&lt;/h1&gt;
+&lt;p&gt;Reasons&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I am 18&lt;/li&gt;
+&lt;li&gt;I am from Ohio&lt;/li&gt;
+&lt;li&gt;My favorite bands are
+&lt;ul&gt;
+&lt;li&gt;KGATLW&lt;/li&gt;
+&lt;li&gt;Osees&lt;/li&gt;
+&lt;li&gt;Mars Volta&lt;/li&gt;
+&lt;li&gt;Deftones&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-C&#34; data-lang=&#34;C&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#include&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;stdio.h&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; argc, &lt;span style=&#34;color:#66d9ef&#34;&gt;char&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;**&lt;/span&gt; argv) {
+	printf(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;\n&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;);
+	&lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Rox's Webpage"
+theme = "chillout"
+paginate = 10
+# paginatePath = ["pages", "vg-content"]
+# pygmentsStyle = "bw"
+# pygmentsCodeFences = true
+# pygmentsCodeFencesGuessSyntax = true
+# enableEmoji = true
+
+[Params]
+# colorScheme = "auto"
+# hideColorSchemeToggle = false
+name = "Rox's Webpage"
+author = "RoxNoAnne"
+description = "This website has a blog, video game content, and contacts and socials. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+mainSections = ["page", "vg-content", "contact"]
+
+[blackfriday]
+extensions = ["hardLineBreak"]
+
+[taxonomies]
+author = "author"
+categories = "categories"
+tags = "tags"
+keywords = "keywords"
+
+[[menu.main]]
+name = "Blog Page"
+weight = 1
+url = "pages"
+
+[[menu.main]]
+name = "Video Game Content"
+weight = 2
+url = "vg-content/"
+
+[[menu.main]]
+name = "Contact Information"
+weight = 3
+url = "contact/"
