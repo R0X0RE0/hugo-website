@@ -1,0 +1,3 @@
+[submodule "chillout"]
+	path = "themes/chillout"
+	url = "https://github.com/R0X0RE0/chillout"
